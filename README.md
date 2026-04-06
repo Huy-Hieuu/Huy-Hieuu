@@ -1,5 +1,5 @@
 # 💫 About Me:
-- AI Engineer | Machine Learning Engineer | Software Engineer
+- AI Engineer | Machine Learning Engineer
 - 🔭 I’m currently studying at Ho Chi Minh University of Technology<br>
 - 🌱 I’m currently learning Computer Science & Engineer<br>
 
