@@ -51,20 +51,4 @@ LLM Infrastructure
 
 ---
 
-### 📊 GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=Huy-Hieuu&show_icons=true&theme=radical&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Huy-Hieuu&theme=radical&hide_border=true)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Huy-Hieuu&icon=0&color=0)](https://visitcount.itsvg.in)
-
 > **Building AI systems that don't just demo well — but actually work in production.**
