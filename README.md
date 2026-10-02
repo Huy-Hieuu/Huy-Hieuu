@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Senior+AI+Engineer+%40+MoMo;Building+production+LLM+agents;Agent+memory+%C2%B7+evaluation+%C2%B7+self-improvement;Distributed+systems+%26+ML+infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Senior+AI+Engineer+%40+MoMo;Building+production+LLM+agents;Agent+memory+%C2%B7+evaluation+%C2%B7+self-improvement;Passionate+about+LLMs+%26+LLM+infrastructure;Deep+learning+infrastructure+at+scale;Distributed+AI+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -85,18 +85,6 @@ Engineered core components of MoMo's lending stack, including a data abstraction
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
----
 
 ## 💡 Principles
 
